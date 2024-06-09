@@ -2,4 +2,7 @@
 1. Чек-лист и тест-кейсы для тестирования мобильного приложения:
 - Чек-лист: https://docs.google.com/spreadsheets/d/1NTm6tC82Q0pWXudD_ErM1DpvfLaPxcEPmmwHlrpM8t8/edit?usp=sharing
 - Тест-кейсы: [ТЕСТ-КЕЙСЫ_мобильное.pdf](https://github.com/user-attachments/files/15749641/-._.pdf)
+2. Создание баг-репортов:
+- Отчет:
+- Тестовый прогон: [G7-Express+run+2024_06_09.pdf](https://github.com/user-attachments/files/15753033/G7-Express%2Brun%2B2024_06_09.pdf)
 
