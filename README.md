@@ -7,4 +7,6 @@
 - Тестовый прогон: [G7-Express+run+2024_06_09.pdf](https://github.com/user-attachments/files/15753033/G7-Express%2Brun%2B2024_06_09.pdf)
 - Отчет по результатам тестирования: [Отчет по результатам тестирования_мобильное.docx](https://github.com/user-attachments/files/15789662/_.docx)
 3. Проверка тестовых сценариев в мобильном приложении с использованием Charles Proxy:
-
+- Удаление другого товара:
+- Отображение картинки при обращении к  https://demoshopping.ru:
+- Информация о мобильном устройстве в header user-agent:
