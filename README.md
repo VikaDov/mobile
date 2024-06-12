@@ -10,4 +10,5 @@
 - Удаление другого товара:
 - Отображение картинки при обращении к  https://demoshopping.ru: ![Снимок](https://github.com/VikaDov/mobile/assets/118528449/7ae4a740-5964-41fa-b043-286483864be0)
 https://drive.google.com/file/d/17Fvn2A9xiMrGMRj4zNmgBmueMhd2v3tV/view?usp=drive_link
-- Информация о мобильном устройстве в header user-agent:
+- Информация о мобильном устройстве в header user-agent: ![Снимок](https://github.com/VikaDov/mobile/assets/118528449/b1e6e724-0bce-4382-878c-6bd37ea31b76)
+
