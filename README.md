@@ -8,8 +8,8 @@
 - Отчет по результатам тестирования: [Отчет по результатам тестирования_мобильное.docx](https://github.com/user-attachments/files/15817954/_.docx)
 3. Проверка тестовых сценариев в мобильном приложении с использованием Charles Proxy:
 - Удаление другого товара:
-a) https://drive.google.com/file/d/1Ay3jTjS3w0k3QxvuUukKpwiptHbIxG90/view?usp=drive_link
-б) https://drive.google.com/file/d/1B-PCV1-t2UK2NZJ2NNvWzHRl9odxCp92/view?usp=drive_link
+- https://drive.google.com/file/d/1Ay3jTjS3w0k3QxvuUukKpwiptHbIxG90/view?usp=drive_link
+- https://drive.google.com/file/d/1B-PCV1-t2UK2NZJ2NNvWzHRl9odxCp92/view?usp=drive_link
 - Отображение картинки при обращении к  https://demoshopping.ru: ![Снимок](https://github.com/VikaDov/mobile/assets/118528449/7ae4a740-5964-41fa-b043-286483864be0)
 https://drive.google.com/file/d/17Fvn2A9xiMrGMRj4zNmgBmueMhd2v3tV/view?usp=drive_link
 - Информация о мобильном устройстве в header user-agent: ![Снимок](https://github.com/VikaDov/mobile/assets/118528449/b1e6e724-0bce-4382-878c-6bd37ea31b76)
