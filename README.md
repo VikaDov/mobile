@@ -5,7 +5,7 @@
 2. Создание баг-репортов:
 - Баг-репорты: [БАГ_РЕПОРТЫ_мобильное.xlsx](https://github.com/user-attachments/files/15817879/_._.xlsx)
 - Тестовый прогон: [G7-Express+run+2024_06_09.pdf](https://github.com/user-attachments/files/15753033/G7-Express%2Brun%2B2024_06_09.pdf)
-- Отчет по результатам тестирования: [Отчет по результатам тестирования_мобильное.docx](https://github.com/user-attachments/files/15789662/_.docx)
+- Отчет по результатам тестирования: [Отчет по результатам тестирования_мобильное.docx](https://github.com/user-attachments/files/15817954/_.docx)
 3. Проверка тестовых сценариев в мобильном приложении с использованием Charles Proxy:
 - Удаление другого товара:
 - Отображение картинки при обращении к  https://demoshopping.ru: ![Снимок](https://github.com/VikaDov/mobile/assets/118528449/7ae4a740-5964-41fa-b043-286483864be0)
